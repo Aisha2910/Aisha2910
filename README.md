@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aisha2910
+- 👋 Hi, I’m @Aisha
 - 👀 I’m interested in Software engineering.
 - 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate on ...
